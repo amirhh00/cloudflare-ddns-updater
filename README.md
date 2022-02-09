@@ -3,6 +3,8 @@
 
 This script is used to update dynamic DNS entries for accounts on Cloudflare.
 
+https://youtu.be/rI-XxnyWFnM?t=148
+
 ## Support Me
 [![Donate Via Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Jasonkkf)
 
